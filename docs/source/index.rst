@@ -6,6 +6,7 @@ Spatialign: An Unsupervised Method for Integration and Denoising Gene Expression
 
 .. toctree::
    :maxdepth: 1
+   :caption: Contents
 
    Installation
    Tutorial
