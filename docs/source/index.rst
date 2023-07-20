@@ -8,7 +8,7 @@ Spatialign: An Unsupervised Method for Integration and Denoising Gene Expression
    :maxdepth: 1
 
    Installation
-   Alignment Biological Effects
+   Tutorial
 
 Overview
 =========================================================
