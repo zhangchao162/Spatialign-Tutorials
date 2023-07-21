@@ -1,15 +1,12 @@
 Welcome to Spatialign's documentation!
 ===================================
 
-Spatialign: An Unsupervised Method for Integration and Denoising Gene Expression Profiles in Spatially Resolved Transcriptomics
-=====================================================================================================================================================
-
 .. toctree::
    :maxdepth: 1
    :caption: Contents
 
    Installation
-   Tutorial
+   Tutorial 1_Integrate datasets measured by different platforms
 
 Overview
 =========================================================
