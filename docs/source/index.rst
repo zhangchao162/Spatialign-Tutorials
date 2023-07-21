@@ -6,7 +6,8 @@ Welcome to Spatialign's documentation!
    :caption: Contents
 
    Installation
-   Tutorial-1-Integrate-datasets-measured-by-different-platforms
+   Tutorial-1-simulate-datasets
+   Tutorial-2-Integrate-datasets-measured-by-different-platforms
 
 Overview
 ========
