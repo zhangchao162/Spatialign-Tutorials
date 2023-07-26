@@ -1,3 +1,3 @@
 Spatialign Tutorials
 
-Repository: `Spatialign <https://github.com/zhangchao162/Spatialign.git>`
+Repository: `Spatialign <https://github.com/zhangchao162/Spatialign.git>`_
