@@ -13,7 +13,7 @@ Please note that the current Spatialign version offers full support of Linux ope
 
 1. Python
 ----------------
-Downloading the package from https://github.com/zhangchao162/Spatialign/blob/wheel/spatialign-0.1.2-py3-none-linux_x86_64.whl
+Downloading the package from [GitHub repository](https://github.com/zhangchao162/Spatialign/blob/wheel/spatialign-0.1.2-py3-none-linux_x86_64.whl)
 
 .. code-block:: python
 
