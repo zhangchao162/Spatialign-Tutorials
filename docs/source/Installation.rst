@@ -13,17 +13,17 @@ Please note that the current Spatialign version offers full support of Linux ope
 
 1. Python
 ----------------
-Downloading the package from `GitHub repository <https://github.com/zhangchao162/Spatialign/blob/wheel/spatialign-0.1.2-py3-none-linux_x86_64.whl>`_.
+Downloading the package from `GitHub repository <https://github.com/STOmics/Spatialign.git>`_.
 
 .. code-block:: python
 
-    pip install spatialign-0.1.2-py3-none-linux_x86_64.whl
+    pip install spatialign-0.1.3-py3-none-linux_x86_64.whl
 
 or
 
 .. code-block:: python
 
-    git clone -b release https://github.com/zhangchao162/Spatialign.git
+    git clone https://github.com/STOmics/Spatialign.git
 
     cd Spatialign
 
@@ -50,7 +50,7 @@ Create conda environment and install Spatialign package.
 
    or
 
-   git clone -b release https://github.com/zhangchao162/Spatialign.git
+   git clone https://github.com/STOmics/Spatialign.git
 
    cd Spatialign
 
