@@ -13,6 +13,12 @@ Please note that the current Spatialign version offers full support of Linux ope
 
 1. Python
 ----------------
+.. code-block:: python
+
+	pip install spatialign
+
+or
+
 Downloading the package from `GitHub repository <https://github.com/STOmics/Spatialign.git>`_.
 
 .. code-block:: python
