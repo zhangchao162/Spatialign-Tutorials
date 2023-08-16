@@ -13,6 +13,8 @@ Please note that the current Spatialign version offers full support of Linux ope
 
 1. Python
 ----------------
+Install through `Pypi <https://pypi.org/project/spatialign/>`_. 
+
 .. code-block:: python
 
 	pip install spatialign
